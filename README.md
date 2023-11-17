@@ -1,11 +1,11 @@
 Alefowl.com: библиотека билингвальных книг
 
 ДОСТУПЫ
-- получите у Founder / Product owner доступы к необходимым сервисам, таким как Miro (опционально), GitHub(обязательно)
+- получите у Founder / Product owner (https://t.me/stakap) доступы к необходимым сервисам, таким как Miro (опционально), GitHub(обязательно)
 - зарегистрируйтесь на сайте http://www.alefowl.com)
 
 ДЛЯ НАЧАЛА РАБОТЫ НЕОБХОДИМО
-- скачайте и установите базу данных PostgreSQL ( https://www.postgresql.org/ )
+- скачайте и установите базу данных PostgreSQL* ( https://www.postgresql.org/ )
 - скачайте и установите Postman ( https://www.postman.com/downloads/ )
 - скачайте и установите Git ( https://git-scm.com/ )
 - скачайте и установите Java версии не ниже 1.8 ( https://www.java.com/ru/download/manual.jsp ) (проверка: java -version)
@@ -13,7 +13,8 @@ Alefowl.com: библиотека билингвальных книг
 - скачайте и установите sbt версии 1.5.8 (проверка: sbt -version)
 - скачайте и установите Idea* ( https://www.jetbrains.com/ru-ru/idea/ )
     * вместо Idea можно использовать Visual Studio Code, если это удобнее
-
+* вместо PostgreSQL можно использовать dbeaver
+  
 ИНСТРУКЦИЯ ДЛЯ ЛОКАЛЬНОГО РАЗВЕРТЫВАНИЯ ПРОЕКТА
 
 СОЗДАНИЕ ЛОКАЛЬНОЙ БД
